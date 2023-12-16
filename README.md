@@ -2,14 +2,6 @@
 
 Welcome to the Meme Generator Project! This React-based project allows users to create hilarious memes with ease. The application leverages various React concepts, including Event Listeners, State Management, Conditional Rendering, and integration with the Image Flip API to access a vast collection of meme images.
 
-## Table of Contents
-- [Features]
-- [Technologies]
-- [Installation]
-- [Usage]
-- [Project Structure]
-- [Acknowledgements]
-
 ## Features
 
 1. **User-Friendly UI:** The project boasts a clean and intuitive user interface.
